@@ -2,7 +2,7 @@
 
 I am an ecologist with a passion for quantitative applications in ecological research and conservation.
 
-I currently work as a Data analyst in the Riverine Ecosystems and Livelihoods (REAL) Program at <a href="https://www.wildlifeconservationtrust.org/">Wildlife Conservation Trust</a>. I use a combination of statistical and remote sensing methods to analyse ecological, hydrological and wildlife crime data, pertaining to key riverine fauna of the Gangetic plains, such as Ganges river dolphins, gharials and turtles. Most of the code for these projects can be found on our porgram <a href="https://github.com/orgs/WCT-Riverine-Ecology-And-Livelihoods/repositories">Github page</a>.
+I currently work as a Data analyst in the Riverine Ecosystems and Livelihoods (REAL) Program at <a href="https://www.wildlifeconservationtrust.org/">Wildlife Conservation Trust</a>. I use a combination of statistical and remote sensing methods to analyse ecological, hydrological and wildlife crime data, pertaining to key riverine fauna of the Gangetic plains, such as Ganges river dolphins, gharials and turtles. Most of the code for these projects can be found on our program <a href="https://github.com/orgs/WCT-Riverine-Ecology-And-Livelihoods/repositories">Github page</a>.
 
 I have a special interest in wildlife trade and its demographic impacts, particularly that in freshwater turtles and tortoises from India.  
 
